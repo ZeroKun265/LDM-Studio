@@ -13,4 +13,4 @@ will be stored here. The first thing stored here is the aseprite project for the
 
 ## Why "LDM"
 - LDM is an acronym for our 3 names: Leonardo, Davide, Mark
-- Why not LMD, DML, DLM, ......                        mind your own business alright?
+- Why not LMD, DML, DLM, ...... or anything like that?  Mind your own business alright?
